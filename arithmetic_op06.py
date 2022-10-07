@@ -1,10 +1,10 @@
 #Create a variable called 'number' with data type int.
 number=25
 #Divide the number by 2 and assign number.
-answer=number//2
+number=number/2
 #Find the fraction of the number and assing to a variable called 'answer'.
-print(answer)
+answer=number-number//1
 #Print the answer.
-print(number-answer)
+print(answer)
 #Print the number.
-
+print(number)

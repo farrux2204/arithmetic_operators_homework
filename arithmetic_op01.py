@@ -1,12 +1,9 @@
 #Create a variable x and assign it the value of 10.
-
+x = 10
 #Create a variable y and assign it the value of 5.
-
+y = 5
 #Create a variable result and assign it the value of x + y.
-
+result = x + y
 #Print the value of result.
-#'The result is:
-x=10 
-y=5
-
-print("The result is:",x+y) 
+#'The result is:'
+print('The result is:', result)

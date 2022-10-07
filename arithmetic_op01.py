@@ -5,7 +5,7 @@
 #Create a variable result and assign it the value of x + y.
 
 #Print the value of result.
-#'The result is:'
+#'The result is:
 x=10
 y=5
 print(x+y)

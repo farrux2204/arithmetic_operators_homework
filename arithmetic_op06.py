@@ -5,6 +5,6 @@ answer=number%2
 #Find the fraction of the number and assing to a variable called 'answer'.
 print(answer)
 #Print the answer.
-print(number)
+print(number-answer)
 #Print the number.
 
